@@ -1,7 +1,1 @@
 Jesus you are my saviour
-I Love you Jesus
-<<<<<<< HEAD
-This is not a issue
-=======
-This is going to cause trouble
->>>>>>> very-bad
